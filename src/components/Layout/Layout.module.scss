@@ -1,0 +1,14 @@
+.padding {
+  width: 94%;
+  /* max-width: 1240px; */
+  margin: 0 auto;
+  /* flex-grow: 1; */
+  flex: 1 0 auto;
+}
+
+.loadingWrapper{
+  display: flex;
+  height: 100vh;
+  justify-content: center;
+  align-items: center;
+}

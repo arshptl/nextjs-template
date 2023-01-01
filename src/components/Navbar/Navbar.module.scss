@@ -1,0 +1,14 @@
+.navstyle {
+  width: 100%;
+  position: sticky;
+  top: 0;
+  z-index: 1;
+}
+
+.logoStyle {
+  background-color: "transparent";
+  outline: "none";
+  :hover {
+    outline: none;
+  }
+}
